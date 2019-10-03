@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="45" height="45" viewBox="0 0 45 45">
+  <g id="bx-left-arrow-circle" transform="translate(45) rotate(180)">
+    <path id="Shape" d="M-22.5,45A22.525,22.525,0,0,0,0,22.5,22.525,22.525,0,0,0-22.5,0,22.525,22.525,0,0,0-45,22.5,22.525,22.525,0,0,0-22.5,45Zm0-40.5a18.02,18.02,0,0,1,18,18,18.02,18.02,0,0,1-18,18,18.02,18.02,0,0,1-18-18A18.02,18.02,0,0,1-22.5,4.5Z" transform="rotate(-180)" fill="#0dc5d4"/>
+    <path id="Path" d="M-9,0,0,9l-9,9V11.25h-9V6.75h9Z" transform="translate(13.5 -13.5) rotate(-180)" fill="#0dc5d4"/>
+  </g>
+</svg>
